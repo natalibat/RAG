@@ -53,7 +53,7 @@ Cистема аналізу юридичних документів
 
 ### 2. Клонування репозиторію
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/natalibat/RAG.git
 cd thesis
 ```
 
